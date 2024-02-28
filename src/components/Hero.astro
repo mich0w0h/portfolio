@@ -1,18 +1,22 @@
 ---
 import heroImage from '@assets/images/hero.png';
 import { Image } from '@astrojs/image/components';
+import Social from '@components/ui/Social.astro';
 ---
 
 <section
 	data-testid="hero"
-	class="flex h-1/2 flex-col-reverse items-center justify-center text-center lg:flex-row"
+	class="flex h-1/2 flex-col-reverse items-center justify-around text-center lg:flex-row"
 >
-	<div class="flex flex-col items-center text-justify lg:mb-0 lg:w-1/2">
+	<div class="mb-0 flex flex-col items-center text-center">
 		<div>
-			<h1 class="font-monospace text-3xl font-bold text-black">
+			<h1 class="font-monospace text-2xl font-bold text-black lg:text-3xl">
 				Hi there! I'm <span class="text-orange">mich0w0h</span>
 			</h1>
-			<p class="mt-3 font-monospace text-black">a corporate engineer / a hobby game developer</p>
+			<p class="mt-2 text-black">a corporate engineer / hobby game developer based in Japan</p>
+		</div>
+		<div class="mt-2 flex scale-50 gap-5 text-black">
+			<Social />
 		</div>
 	</div>
 	<div data-testid="hero-img" class="flex w-1/2 items-center justify-center">
@@ -21,8 +25,8 @@ import { Image } from '@astrojs/image/components';
 			alt="Coding girl"
 			aspectRatio="4:4"
 			format="png"
-			width={300}
-			height={300}
+			width={350}
+			height={350}
 			loading="eager"
 		/>
 	</div>
