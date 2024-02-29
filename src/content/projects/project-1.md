@@ -1,8 +1,7 @@
 ---
 inProgress: false
-title: Project title
-description: Project description
-img_alt: project image alt text
-link: https://github.com/veranikabarel?tab=repositories
-tags: ['React', 'CSS', 'Typescript']
+title: Macaron Web
+description: A web app where you can enjoy chatting with Macaron
+link: https://macaron-web.vercel.app/
+tags: ['React', 'Typescript', 'Deno', 'LangChain']
 ---

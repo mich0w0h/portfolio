@@ -1,8 +1,7 @@
 ---
 inProgress: false
-title: Project title
-description: Project description
-img_alt: project image alt text
-link: https://github.com/veranikabarel?tab=repositories
-tags: ['React', 'CSS', 'Typescript']
+title: Macaron 〜マカロンとの4日間〜
+description: A simple mobile game where you can enjoy days with Macaron
+link: https://play.google.com/store/apps/details?id=com.mich0w0h.macaron
+tags: ['Unity']
 ---
