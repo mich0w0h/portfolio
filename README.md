@@ -1,10 +1,14 @@
 # mich0w0h's Portfolio Website
 
-This is my personal portfolio website built with Astro. It's a fork of the [veranikabarel/astro-portfolio](https://github.com/veranikabarel/astro-portfolio) project.
+This is my personal portfolio website built with Astro.
+
+You can view the live site here 🚀: [mich0w0h.fun](https://mich0w0h.fun/) 🎉
+
+It's a fork of the [veranikabarel/astro-portfolio](https://github.com/veranikabarel/astro-portfolio) project.
 
 ## Features
 
-✔️ Integration with **Tailwind CSS** ([@astrojs/tailwind](https://docs.astro.build/en/guides/integrations-guide/tailwind/)) supporting **Dark mode**.
+✔️ Integration with **Tailwind CSS** ([@astrojs/tailwind](https://docs.astro.build/en/guides/integrations-guide/tailwind/))
 
 ✔️ Uses the following integrations:
 
