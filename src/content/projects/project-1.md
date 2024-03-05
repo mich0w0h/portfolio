@@ -1,7 +1,7 @@
 ---
 inProgress: false
-title: Macaron Web
-description: A web app where you can enjoy chatting with Macaron
-link: https://macaron-web.vercel.app/
-tags: ['React', 'Typescript', 'Deno', 'LangChain']
+title: Macaron Web (frontend)
+description: frontend of Macaron Web where you can enjoy chatting with a character, Macaron
+link: https://github.com/mich0w0h/macaron-web-frontend
+tags: ['React', 'Typescript']
 ---
